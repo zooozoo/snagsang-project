@@ -4,7 +4,7 @@
 .idea/
 .config_secret/
 .media/
-pretty_html.html
+test.html
 Dockerfile*
 
 # Travis CI
